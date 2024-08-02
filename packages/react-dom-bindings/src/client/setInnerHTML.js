@@ -56,7 +56,6 @@ function setInnerHTMLImpl(
       return;
     }
   }
-  node.innerHTML = (html: any);
 }
 
 let setInnerHTML: (
